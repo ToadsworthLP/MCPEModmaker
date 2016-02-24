@@ -1,0 +1,32 @@
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Release\MCPE Modmaker.exe.config
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Release\MCPE Modmaker.exe
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Release\MCPE Modmaker.pdb
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Release\MCPE Modmaker.xml
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.AddBlock.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.AddItem.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.Form1.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.Resources.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE Modmaker.vbproj.GenerateResource.Cache
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE Modmaker.exe
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE Modmaker.xml
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE Modmaker.pdb
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE Modmaker.vbprojResolveAssemblyReference.cache
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.AddCrafting.resources
+F:\Programmieren\Recovery\bin\Release\MCPE Modmaker.exe.config
+F:\Programmieren\Recovery\obj\Release\MCPE Modmaker.exe
+F:\Programmieren\Recovery\obj\Release\MCPE Modmaker.xml
+F:\Programmieren\Recovery\obj\Release\MCPE Modmaker.pdb
+F:\Programmieren\Recovery\bin\Release\MCPE Modmaker.exe
+F:\Programmieren\Recovery\bin\Release\MCPE Modmaker.pdb
+F:\Programmieren\Recovery\bin\Release\MCPE Modmaker.xml
+F:\Programmieren\Recovery\obj\Release\MCPE Modmaker.vbprojResolveAssemblyReference.cache
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.AddBlock.resources
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.AddCrafting.resources
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.AddItem.resources
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.AddSmelting.resources
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.Form1.resources
+F:\Programmieren\Recovery\obj\Release\MCPE_Modmaker.Resources.resources
+F:\Programmieren\Recovery\obj\Release\MCPE Modmaker.vbproj.GenerateResource.Cache
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.AddSmelting.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.AddCustom.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Release\MCPE_Modmaker.Settings.resources

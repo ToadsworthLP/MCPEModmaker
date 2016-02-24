@@ -1,0 +1,48 @@
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.exe.config
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.exe
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.pdb
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.xml
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.vbprojResolveAssemblyReference.cache
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.Form1.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.Resources.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.vbproj.GenerateResource.Cache
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.exe
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.xml
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.pdb
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddItem.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddBlock.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddCrafting.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddSmelting.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.exe.config
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.exe
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.xml
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.pdb
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.exe
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.pdb
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\bin\Debug\MCPE Modmaker.xml
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.vbprojResolveAssemblyReference.cache
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddBlock.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddCrafting.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddItem.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddSmelting.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.Form1.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.Resources.resources
+M:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE Modmaker.vbproj.GenerateResource.Cache
+F:\Programmieren\Recovery\bin\Debug\MCPE Modmaker.exe.config
+F:\Programmieren\Recovery\obj\Debug\MCPE Modmaker.exe
+F:\Programmieren\Recovery\obj\Debug\MCPE Modmaker.xml
+F:\Programmieren\Recovery\obj\Debug\MCPE Modmaker.pdb
+F:\Programmieren\Recovery\bin\Debug\MCPE Modmaker.exe
+F:\Programmieren\Recovery\bin\Debug\MCPE Modmaker.pdb
+F:\Programmieren\Recovery\bin\Debug\MCPE Modmaker.xml
+F:\Programmieren\Recovery\obj\Debug\MCPE Modmaker.vbprojResolveAssemblyReference.cache
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.AddBlock.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.AddCrafting.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.AddItem.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.AddSmelting.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.Form1.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.Resources.resources
+F:\Programmieren\Recovery\obj\Debug\MCPE Modmaker.vbproj.GenerateResource.Cache
+F:\Programmieren\Recovery\obj\Debug\MCPE_Modmaker.AddEvent.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.Settings.resources
+F:\Programmieren\MCPE Modmaker\MCPE Modmaker\obj\Debug\MCPE_Modmaker.AddCustom.resources
