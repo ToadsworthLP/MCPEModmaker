@@ -7,5 +7,5 @@ You are ALLOWED to:
 + Learn from this project
 + Continue developing this
 You are NOT ALLOWED to:
-- Reupload this in source code or compiled form
-- Claim this as yours
++ Reupload this in source code or compiled form
++ Claim this as yours
