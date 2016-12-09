@@ -9,7 +9,7 @@ Permissions
 + You are ALLOWED to:
 View and download the source code in form of this Visual Basic project (obviously),
 Learn from this project,
-Continue developing this
+Continue developing this,
 Reuploads in source of compiled form
 + You are NOT ALLOWED to:
 Claim this as yours
