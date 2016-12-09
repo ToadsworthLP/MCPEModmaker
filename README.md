@@ -10,6 +10,9 @@ Permissions
 View and download the source code in form of this Visual Basic project (obviously),
 Learn from this project,
 Continue developing this
+Reuploads in source of compiled form
 + You are NOT ALLOWED to:
-Reupload this in source code or compiled form,
 Claim this as yours
+
+You MUST always give credit to me when you release your own version of this software. Also, the
+source of your version must be publicly visible on GitHub
